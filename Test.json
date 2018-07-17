@@ -1,11 +1,11 @@
  {
     "author" : "Gaban", 
     "name" : "Test", 
-    "keyWords" : "keyword1,keyword2",
+    "keyWords" : "Sombre, Night, Dark",
     "version" : "1.0.0",
     "dofusVersion" : "2.47", 
     "description" : "Test", 
-    "url" : "https://github.com/Gaban-D/Theme_Dofus",
+    "url" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Test.zip",
     "previewUrl" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Preview.png", 
     "creationDate" : "17/07/2018", 
     "modificationDate" : "17/07/2018"
