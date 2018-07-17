@@ -1,11 +1,11 @@
 [
     {
         "author" : "Gaban",
-        "name" : "Theme",
-        "keyWords" : "Dark, Sombre",
+        "name" : "Theme sombre avec mode tactique sombre",
+        "keyWords" : "Dark, Sombre, Night",
         "version" : "1.0",
         "dofusVersion" : "2.47",
-        "description" : "Test",
+        "description" : "Reprise du theme sombre de zik, mis a jour pour une compatibilitée avec la 2.47",
         "url" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Test.zip?raw=true",
         "previewUrl" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Preview.png?raw=true",
         "creationDate" : "17/07/2018", 
