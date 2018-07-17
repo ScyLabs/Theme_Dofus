@@ -1,12 +1,14 @@
- {
-    "author" : "Gaban", 
-    "name" : "Test", 
-    "keyWords" : "Sombre, Night, Dark",
-    "version" : "1.0.0",
-    "dofusVersion" : "2.47", 
-    "description" : "Test", 
-    "url" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Test.zip?raw=true",
-    "previewUrl" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Preview.png?raw=true", 
-    "creationDate" : "17/07/2018", 
-    "modificationDate" : "17/07/2018"
-    } 
+[
+    {
+        "author" : "zik",
+        "name" : "Theme",
+        "keyWords" : "NA",
+        "version" : "2.39.3",
+        "dofusVersion" : "2.39",
+        "description" : "pti theme sobre",
+        "url" : "https://sapeuh.fr/wp-content/uploads/2017/themes/Theme.zip",
+        "previewUrl" : "http://i.imgur.com/vXz451i.png",
+        "creationDate" : "26/06/2017", 
+        "modificationDate" : "26/06/2017"
+    }
+]
