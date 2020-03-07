@@ -1,4 +1,4 @@
-# Theme Dofus Mode Tactique Sombre 2.52
+# Theme Dofus Mode Tactique Sombre 2.54
 
 Dark theme dofus avec un mode tactique sombre, reprise du theme de zik avec quelques amélioration et sans les gamineries
 Compatible 2.52
