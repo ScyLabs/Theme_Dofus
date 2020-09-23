@@ -3,12 +3,12 @@
         "author" : "Gaban",
         "name" : "Mode_tactique_sombre",
         "keyWords" : "Sombre, Dark, Theme",
-        "version" : "1.6.0",
-        "dofusVersion" : "2.57",
+        "version" : "1.5.1",
+        "dofusVersion" : "2.55",
         "description" : "Reprise du theme sombre de zik mis a jour et amélioré",
         "url" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Mode_tactique_sombre.zip?raw=true",
         "previewUrl" : "https://github.com/Gaban-D/Theme_Dofus/blob/master/Preview.png?raw=true",
         "creationDate" : "17/07/2018", 
-        "modificationDate" : "23/09/2020"
+        "modificationDate" : "02/04/2020"
     }
 ]
