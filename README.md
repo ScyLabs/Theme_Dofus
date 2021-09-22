@@ -2,6 +2,6 @@
 
 Theme sombre dofus comprenant un mode tactique, reprise du theme de zik mis a jour et amélioré, compatible 2.57
 
-Lien a coller dans dofus: https://raw.githubusercontent.com/Gaban-D/Theme_Dofus/master/Mode_tactique_sombre.json
+Lien a coller dans dofus: https://raw.githubusercontent.com/Gabann/Theme_Dofus/master/Mode_tactique_sombre.json
 
 ![Alt text](Preview.png?raw=true "Mode tactique sombre")
